@@ -18,7 +18,6 @@ type User struct {
 	Email string
 	Status bool
 	Age int
-	
 }
 
 func (u User) GetStatus(){
