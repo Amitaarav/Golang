@@ -23,6 +23,7 @@ Golang/
 | Root | Packages, Imports, Exported Names | [📖 README](./LastGoBasics/README.md) |
 | `datatypes/` | Go Type System, Integer Ranges, Format Verbs | [📖 README](./LastGoBasics/datatypes/README.md) |
 | `functions/` | Multiple Returns, Named Returns, Var Blocks | [📖 README](./LastGoBasics/functions/README.md) |
+| `type-conversion/` | Explicit Conversion, Constants, Type Inference | [📖 README](./LastGoBasics/type-conversion/README.md) |
 
 ---
 

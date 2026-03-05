@@ -13,6 +13,8 @@ LastGoBasics/
 │   └── main.go
 ├── functions/       # Functions, multiple returns, named returns
 │   └── main.go
+├── type-conversion/ # Explicit conversion and constants
+│   └── main.go
 ├── go.mod           # Module definition
 └── README.md        # This file
 ```
@@ -23,7 +25,8 @@ LastGoBasics/
 flowchart TD
     A["main.go: Packages & Imports"] --> B["datatypes/: Type System"]
     B --> C["functions/: Function Patterns"]
-    C --> D["Ready for Lectures ➡️"]
+    C --> D["type-conversion/: Conversion & Constants"]
+    D --> E["Ready for Lectures ➡️"]
 ```
 
 ## 💡 Key Concepts from `main.go`
